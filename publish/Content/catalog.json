@@ -1,0 +1,168 @@
+{
+  "brand": "Greige by Gladys",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/greige_collection/",
+  "hours": "10 AM – 7 PM; confirm current visiting hours with the boutique",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-06.jpg",
+  "galleryImages": [
+    "/images/collection-02.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-07.jpg"
+  ],
+  "products": [
+    {
+      "id": "blue-shirt-look",
+      "name": "Blue Shirt Look",
+      "collection": "Shirts & layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A bright blue button-up shirt styled with a dark patterned lower layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2eSX7DL92/"
+    },
+    {
+      "id": "leopard-print-look",
+      "name": "Leopard Print Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A leopard-print long-sleeve top with a matching patterned lower layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2hJorgRQq/"
+    },
+    {
+      "id": "powder-blue-knit",
+      "name": "Powder Blue Knit Look",
+      "collection": "Shirts & layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pale blue knit top styled with a dark patterned layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2bRK2Cve8/"
+    },
+    {
+      "id": "plaid-belted-look",
+      "name": "Plaid Belted Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown plaid longline shirt or dress silhouette finished with a belt. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2VUx1mQtC/"
+    },
+    {
+      "id": "navy-check-skirt-look",
+      "name": "Navy & Check Skirt Look",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark navy top styled with a flowing checked skirt and boots. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2OMtft5SL/"
+    },
+    {
+      "id": "cream-layer-look",
+      "name": "Cream Layer Look",
+      "collection": "Shirts & layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A relaxed cream long-sleeve top paired with dark wide-leg trousers. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2PX_qIHJz/"
+    },
+    {
+      "id": "chocolate-top-look",
+      "name": "Chocolate Top Look",
+      "collection": "Shirts & layers",
+      "audience": "The edit",
+      "family": "",
+      "description": "A relaxed dark brown short-sleeve top shown during an in-store styling presentation. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2JWIPDIrW/"
+    },
+    {
+      "id": "brown-handbag-detail",
+      "name": "Brown Handbag Detail",
+      "collection": "Accessories",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown crocodile-pattern handbag detail in the boutique’s public styling image. The exact material is unconfirmed. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ],
+      "images": [
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/greige_collection/reel/Df2YUenDirv/"
+    }
+  ],
+  "services": [],
+  "branches": [
+    {
+      "name": "Byblos · 2412 Center",
+      "mapUrl": "https://maps.app.goo.gl/DQZ6idCxtSS9L7wx9?g_st=com.google.maps.preview.copy"
+    }
+  ]
+}

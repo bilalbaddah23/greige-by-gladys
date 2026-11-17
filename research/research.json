@@ -1,0 +1,282 @@
+{
+  "brand": "Greige by Gladys",
+  "handle": "greige_collection",
+  "instagram": "https://www.instagram.com/greige_collection/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "hours": "10 AM – 7 PM; confirm current visiting hours with the boutique",
+  "followersObserved": 212000,
+  "followersDisplay": "212K",
+  "followersPrecision": "Rounded figure shown by the public profile",
+  "latestVisiblePost": "2026-11-17",
+  "researchDate": "2026-11-17",
+  "profileBio": "📞 +961 70 503 550 | DM to order\n📍 Byblos, 2412 Center\n🕙 10 AM - 7 PM\n🌍 Worldwide Shipping\n🇮🇹 🇫🇷 🇹🇷 Curated Luxury",
+  "bioLinks": [
+    "https://maps.app.goo.gl/DQZ6idCxtSS9L7wx9?g_st=com.google.maps.preview.copy",
+    "https://www.threads.com/@greige_collection"
+  ],
+  "branches": [
+    {
+      "name": "Byblos · 2412 Center",
+      "mapUrl": "https://maps.app.goo.gl/DQZ6idCxtSS9L7wx9?g_st=com.google.maps.preview.copy"
+    }
+  ],
+  "heroImage": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-02.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-08.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-01.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-02.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-03.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-04.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-05.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-06.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-07.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-08.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-09.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-10.jpg",
+    "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "blue-shirt-look",
+      "name": "Blue Shirt Look",
+      "category": "Shirts & layers",
+      "description": "A bright blue button-up shirt styled with a dark patterned lower layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2eSX7DL92/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "leopard-print-look",
+      "name": "Leopard Print Look",
+      "category": "Coordinated looks",
+      "description": "A leopard-print long-sleeve top with a matching patterned lower layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2hJorgRQq/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "powder-blue-knit",
+      "name": "Powder Blue Knit Look",
+      "category": "Shirts & layers",
+      "description": "A pale blue knit top styled with a dark patterned layer. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2bRK2Cve8/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "plaid-belted-look",
+      "name": "Plaid Belted Look",
+      "category": "Coordinated looks",
+      "description": "A brown plaid longline shirt or dress silhouette finished with a belt. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2VUx1mQtC/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "navy-check-skirt-look",
+      "name": "Navy & Check Skirt Look",
+      "category": "Coordinated looks",
+      "description": "A dark navy top styled with a flowing checked skirt and boots. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2OMtft5SL/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "cream-layer-look",
+      "name": "Cream Layer Look",
+      "category": "Shirts & layers",
+      "description": "A relaxed cream long-sleeve top paired with dark wide-leg trousers. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2PX_qIHJz/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "chocolate-top-look",
+      "name": "Chocolate Top Look",
+      "category": "Shirts & layers",
+      "description": "A relaxed dark brown short-sleeve top shown during an in-store styling presentation. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2JWIPDIrW/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    },
+    {
+      "id": "brown-handbag-detail",
+      "name": "Brown Handbag Detail",
+      "category": "Accessories",
+      "description": "A brown crocodile-pattern handbag detail in the boutique’s public styling image. The exact material is unconfirmed. This collection photograph is a style reference. Ask the boutique to confirm the exact item, measurements, current availability and price. Styling pieces are not assumed to be included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/greige_collection/reel/Df2YUenDirv/",
+      "price": null,
+      "sizes": [
+        "Confirm fit with the boutique"
+      ]
+    }
+  ],
+  "about": "A personal point of view on dressing. Explore photographed looks from Greige by Gladys, based at 2412 Center in Byblos, and ask the boutique about your favourite pieces.",
+  "activityEvidence": "Own public Reel grid contains twelve posts dated November17,2026. One source post opened directly; caption Only one of each. No numeric stock claim is carried into the demo.",
+  "websiteCheck": {
+    "result": "No matching official shop found in checked public profile links and bounded exact-handle/name/contact searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"greige_collection\" website shop",
+      "\"Greige by Gladys\" website",
+      "\"70503550\" shop website"
+    ],
+    "checkedDate": "2026-11-17",
+    "sources": [
+      "https://www.instagram.com/greige_collection/",
+      "https://www.google.com/search?q=%22greige_collection%22+website+shop"
+    ]
+  },
+  "imageProvenance": [
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-01.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2hJorgRQq/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/916319420_1850086156237003_7683874339923114505_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yIhMKgWm-KMQ7kNvwGSCZ_c&_nc_oc=Adpy_S1bej9DdxqW0zMWenRdmZxflrC5bLuS2NqCewEJJXnNISAZkz_QquBCDPh-0Ws&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSGfUva0LT0y5MXsSNWEYbgLPyawAmZNMs0j_wP_770ng&oe=6B028027",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-02.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2eSX7DL92/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/911960695_1819139279001303_4487223055399091853_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=S4dugBZNleYQ7kNvwH_qPE_&_nc_oc=AdoO-pQoiKsx0j-ceguKODxQOlmmolbBCpkwrU1VsV3c6aTcTScMsZMTABA5W5LvZg8&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQtfhUlj3On4qe972ddfqJB324B7DicuuRNAehotM6wAQ&oe=6B02847E",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-03.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2bRK2Cve8/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/915894002_2210987779812986_6361920419245403656_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HnX50cVO2g8Q7kNvwHfRTlj&_nc_oc=AdqelVKdv9UtOkaPIKpFOgIeE3YlwVGbCDvVsn_2Da1qEZDVWDJzTy0-E5GUHSA0No0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQSEcOohHNsyCPOOS1IRAzcuEHUgdIN1-v2_hcoUznuaNA&oe=6B027124",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-04.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2YUenDirv/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/911720327_3743364949163978_5908865627366389654_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=16hzgijiFjUQ7kNvwFckcsP&_nc_oc=Adoqd2c3RovK5dQ0MmKQj2Sz9QxKdm24_zllr8ET8XS-mOaU3cFZgOzorUc7os58oAk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQriV9O0r_Ezf_S0L3QWL5R84bKXwHsCMVFz7-akGQyvA&oe=6B025B1E",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-05.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2OMtft5SL/",
+      "url": "https://scontent.cdninstagram.com/v/t51.82787-15/910416248_18582612778072402_8003455090384195947_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Tzt8-4YlDhEQ7kNvwGv016h&_nc_oc=AdrK3fBaWJUcoiCfuusKQ_6ZV8vCwm_YCtz4F1PC2aVOFU9hczvvIpzzCsDla_dFNkY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQTH-jaGfz0wmdUH2dqT_axLio43cgI2OP55WUtLfu1Ikw&oe=6B02647E",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        360,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-06.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2VUx1mQtC/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/903015581_1004969729325417_540402743394885548_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=PJMkx8l595EQ7kNvwHN3FBJ&_nc_oc=AdoGcAmkRodPgDSFvhpn6NBhtoGp-jg0rLZJWZCeaZI6iJGnvsJZGnVCAQPsXCn3shw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQRFhv4j3B7lnn1q878rMnVnz_dDgKmjjLpPwhosdFbTlw&oe=6B025774",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-07.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2SR46AOTj/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/910609883_2560467717794003_5207891507878367191_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Xh_pS3zu2lUQ7kNvwFVZgB2&_nc_oc=Adrbl3USsbF8M5lQpUpn-SUBjQT9lhfW29h1uAqqGPvZZJWafKc3YNNXm7Xf5aGGDRY&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR0yl3WdC-F6SdZ8fGlptGjFqhcjWKf558vzkbXe9JVsQ&oe=6B02868A",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-08.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2PX_qIHJz/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/902962228_28904489959223189_317673207753472954_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=z9t-oqfidOwQ7kNvwGTb0E7&_nc_oc=AdrUw_RJxHSTYajcsRvHi89Jv5a2b62PpMh8pxw2N_hGP2dH3vU1fTX-TBcu2pyE4xs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR4uHo-t4oPzgOR3x3ENx9ZlnB0Y_1hrWnQ_wLUbOcKCA&oe=6B028394",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-09.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2MVCNFDgF/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/911668670_2008579523156974_7397016435135377642_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KfirXrbUvR4Q7kNvwGMg6dX&_nc_oc=AdolzWLXB6zWOykOxlKX1m9d5a9FiG4ldWyPvJ6vlLFiJbKcyAfbq0IErLFQzd6TkQE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQS1heG5vHyRayDAcr3d1twswkXa92H-RVanlONk5qi6qA&oe=6B026FEA",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-10.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2K3SjtmgV/",
+      "url": "https://scontent.cdninstagram.com/v/t51.82787-15/912200674_18582592837072402_8885008121609602020_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fDcX6qv_EDQQ7kNvwE5Qo8O&_nc_oc=Adqg2yHFGV8HjO4JydTYJaHQDg7ieD9yIbtli3M8IjFxyy1XkyvBx8mpFBJ8lmxdlLo&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQQd_39sL2T3DrmSxH_Gz0fzuyUwanRTR2VTu2TyPDnAPg&oe=6B0251E6",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        360,
+        640
+      ]
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov17-next-five\\greige-by-gladys\\images\\greige-12.jpg",
+      "post": "https://www.instagram.com/greige_collection/reel/Df2JWIPDIrW/",
+      "url": "https://scontent.cdninstagram.com/v/t51.71878-15/911747812_1848300879922263_4361709665070184311_n.jpg?stp=dst-jpg_e35_s640x640_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=a02vNRwGUbcQ7kNvwGUyli_&_nc_oc=AdqML1nafJwy5pnIMvdnnrUZviGA_0IDupjWmLcYvtjo3TcczKy3mMyYWbwxIgUD43k&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6J8FQpLNVSJhRxhkdOykxw&_nc_ss=7ba8c&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQ-v3LhPC9WkAYGK38wfn9ghtdF3JFsymMpT7PUf9QzVA&oe=6B027028",
+      "kind": "native Reel cover still",
+      "dimensions": [
+        361,
+        640
+      ]
+    }
+  ],
+  "imageNotes": "Eleven native public Reel cover JPEG stills (360/361×640), downloaded as image files from pageAssets. No video downloads or frame extraction, no image generation/upscaling. Excluded cover11 with baked-in prices. Related detail crops and people are part of the official source photographs; materials and bundle inclusions are not inferred. Instagram contact used because original profile explicitly says DM; phone visible but WhatsApp not independently established from primary profile."
+}
